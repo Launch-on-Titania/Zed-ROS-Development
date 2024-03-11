@@ -1,3 +1,11 @@
 {
-    "cmake.sourceDirectory": "/home/arno/Projects/zed_ws/build/catkin_generated/metapackages/zed_examples"
+    "cmake.sourceDirectory": "/home/arno/Projects/zed_ws/build/catkin_generated/metapackages/zed_examples",
+    "python.autoComplete.extraPaths": [
+        "/home/arno/Projects/zed_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/arno/Projects/zed_ws/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
 }
